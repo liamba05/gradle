@@ -11,6 +11,7 @@ This guide will help you to...
 * maximize the chance of your changes being accepted
 * work on the Gradle code base
 * get help if you encounter trouble
+* understand the development workflow and tooling
 
 ## Before you start
 
