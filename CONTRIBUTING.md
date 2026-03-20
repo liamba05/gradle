@@ -1,3 +1,4 @@
+<!-- TEST-190: Integration test edit -->
 # Contributing to the Gradle Build Tool
 
 Thank you for your interest in contributing to Gradle!
