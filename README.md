@@ -78,7 +78,7 @@ The Gradle community offers a range of forums, documentation, and direct help to
 - **Community Slack**: [Join our Slack Channel](https://gradle.org/slack-invite) for real-time discussions, with specialized channels like `#github-integrations` for integration topics.
 - **Newsletter**: Subscribe to the [Gradle Newsletter](https://newsletter.gradle.org) for news, tutorials, and community highlights.
 
-> **Quick Tip**: New contributors to Gradle projects are encouraged to ask questions in the Slack `#community-support` channel.
+> **Quick Tip**: New contributors to Gradle projects are encouraged to ask questions in the Slack `#community-support` channel. You can also browse the [Community Forums](https://discuss.gradle.org/) for previously answered questions.
 
 ---
 
